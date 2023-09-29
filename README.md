@@ -1,4 +1,4 @@
-My first project is a card game that simulates a simplified version of blackjack, where the goal is to get a card score as close to 21 as possible without going over. The game involves betting points, which are earned by winning or lost by losing. The game has six pages: home, login, register, menu, play, and highscore.
+This project is a console card game that simulates a simplified version of blackjack, where the goal is to get a card score as close to 21 as possible without going over. The game involves betting points, which are earned by winning or lost by losing. The game has six pages: home, login, register, menu, play, and highscore.
 
 In the home page, the user can choose between login or register. In the login and register page, the user can create an account with a username and password, or log in with an existing account. The user data is stored in an encrypted file using AES algorithms. Each user starts with 100 points as their initial balance.
 
