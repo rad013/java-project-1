@@ -7,21 +7,21 @@ In the menu page, the user can choose to play the game or view the highscore lis
 The project is written in Java and uses object-oriented programming principles. The project demonstrates my skills in data structures, algorithms, encryption, and file handling.
 
 **Home Page**
-![image](https://github.com/rad013/java-projects/assets/115696959/7f9d4ae2-a1f7-4209-a009-c1606c605740)
+![image](https://i.imgur.com/0hW5K5v.png)
 
 **Login Page**
-![image](https://github.com/rad013/java-projects/assets/115696959/92f6e5dd-e2ee-45b5-b08c-39c90b65160a)
+![image](https://i.imgur.com/Fu6ox7u.png)
 
 **Register Page**
-![image](https://github.com/rad013/java-projects/assets/115696959/97928be4-4d9e-454e-a086-e3ea866b7ee5)
+![image](https://i.imgur.com/MjWFGLr.png)
 
 **Menu Page**
-![image](https://github.com/rad013/java-projects/assets/115696959/fbea8444-c888-4f24-bee6-293bff0dc1d0)
+![image](https://i.imgur.com/3SonzXq.png)
 
 **Play Page**
-![image](https://github.com/rad013/java-projects/assets/115696959/1857d4f8-fa18-4333-a9b1-26b989155323)
+![image](https://i.imgur.com/TFAfuW8.png)
 
 **Highscore page**
-![image](https://github.com/rad013/java-projects/assets/115696959/7de71c5b-b98a-4f3f-a523-4cc92b3f6ecb)
+![image](https://i.imgur.com/ijM10tA.png)
 
 
